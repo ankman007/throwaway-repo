@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>
+        Learning Flask
+    </title>
+</head>
+<body>
+    <h1>Hello there</h1>
+    <p>This is me, hi</p>
+    <button>Submit</button>
+
+    {% for x in range(10) %}
+        {% if x%2 == 1 %}
+            <p>x</p>
+        {% endif%}
+    {% endfor %}
+    <h1>hello</h1>
+    {% for x in content %}
+        <h1>{{x}}</h1>
+
+    {% endfor %}
+</body>
+</html>
+
