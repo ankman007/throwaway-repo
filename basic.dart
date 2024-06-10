@@ -108,9 +108,9 @@ void main() async{
 
 
   // asynchronous programming
-  // print('Fecthing user order...');
-  // var order = await fetchUserOrder();
-  // print('Order: $order');
+  print('Fecthing user order...');
+  var order = await fetchUserOrder();
+  print('Order: $order');
 
   
   isEligible(num);
