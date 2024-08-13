@@ -1,0 +1,8 @@
+1723514539926 | PATCH | /api/user/0 | New request received
+1723514560340 | DELETE | /api/user/0 | New request received
+1723514583343 | POST | /api/users | New request received
+1723514595422 | POST | /api/users | New request received
+        
+1723517627644 | POST | ::1 | /api/users | New request received
+        
+1723517850438 | GET | ::1 | /api/user/4000 | New request received
